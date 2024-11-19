@@ -1,5 +1,5 @@
 package produto;
 
-public interface Compra {
-
+interface Compra {
+    void realizarCompra();
 }
